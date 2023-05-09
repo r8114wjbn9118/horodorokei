@@ -24,6 +24,15 @@ https://youtu.be/m-cDUK7679w
 
   創建所需的資料,必需先執行一次
   
+`function horodorokei:command/start`
+開始
+
+`function horodorokei:command/pause`
+暫停
+
+`function horodorokei:command/update`
+更新(用於暫停後繼續遊戲)
+
 ### 盔甲座
 
 `function horodorokei:command/armorstand/invisible`
