@@ -1,0 +1,1 @@
+tellraw @a {"translate":"ゲームを開始します!（ドロボウ：%s人、ケイサッ：%s人）","with": [{"score":{"name":"#horodorokeithiefcount","objective":"ateg"}},{"score":{"name":"#horodorokeipolicecount","objective":"ateg"}}]}

@@ -1,0 +1,2 @@
+execute if score #total ateg = #horodorokeimissionindexcount ateg run function horodorokei:command/mission/success
+execute unless score #total ateg = #horodorokeimissionindexcount ateg run function horodorokei:command/reset/mission/param

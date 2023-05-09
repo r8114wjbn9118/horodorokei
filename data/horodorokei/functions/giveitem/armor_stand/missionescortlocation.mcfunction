@@ -1,0 +1,1 @@
+give @p armor_stand{display:{Name:'{"text":"horodorokei:護送終點(隱形)","italic":false}'},EntityTag:{Tags:[horodorokeiescortloaction,horodorokeiarmorstand],CustomName:'{"text":"horodorokei:護送終點"}',Invisible:true,Marker:true}} 1

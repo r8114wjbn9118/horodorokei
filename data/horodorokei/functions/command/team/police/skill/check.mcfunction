@@ -1,0 +1,3 @@
+execute if entity @a[scores={horodorokeiskillindex=1,horodorokeiuseskill=1,horodorokeiskillcd=0},team=horodorokeipolice] run function horodorokei:command/team/police/skill/discover
+execute if entity @a[scores={horodorokeiskillindex=2,horodorokeiuseskill=1,horodorokeiskillcd=0},team=horodorokeipolice] run function horodorokei:command/team/police/skill/potion
+function horodorokei:command/team/police/skill/invisibility

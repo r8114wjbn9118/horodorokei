@@ -1,0 +1,1 @@
+give @p armor_stand{display:{Name:'{"text":"horodorokei:護送目標生成(可見)","italic":false}'},EntityTag:{Tags:[horodorokeiescortgenerate,horodorokeiarmorstand],CustomName:'{"text":"horodorokei:護送目標生成"}',CustomNameVisible:1}} 1

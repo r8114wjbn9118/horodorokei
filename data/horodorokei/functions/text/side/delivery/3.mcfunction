@@ -1,0 +1,2 @@
+execute if score #horodorokeidelivery3 ateg matches 0 run scoreboard players operation └ドドドタウン：× horodorokeiside = #index horodorokeiside
+execute if score #horodorokeidelivery3 ateg matches 1 run scoreboard players operation └ドドドタウン：○ horodorokeiside = #index horodorokeiside

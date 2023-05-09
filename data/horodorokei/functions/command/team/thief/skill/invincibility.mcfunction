@@ -1,0 +1,1 @@
+execute as @a[scores={horodorokeiskillindex=3},team=horodorokeithief] run effect give @s resistance 15 5

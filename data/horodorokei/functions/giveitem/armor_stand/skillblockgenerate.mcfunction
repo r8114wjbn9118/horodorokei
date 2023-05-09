@@ -1,0 +1,1 @@
+give @p armor_stand{display:{Name:'{"text":"horodorokei:技能方塊生成(隱形)","italic":false}'},EntityTag:{Tags:[horodorokeiskillblockgenerateloaction,horodorokeiarmorstand],CustomName:'{"text":"horodorokei:技能方塊生成"}',Invisible:true,Marker:true}} 1

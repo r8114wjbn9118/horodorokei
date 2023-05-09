@@ -1,0 +1,1 @@
+execute store result score #horodorokeithiefcount ateg if entity @e[team=horodorokeithief,tag=!horodorokeiarrest]

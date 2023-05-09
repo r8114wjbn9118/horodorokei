@@ -1,0 +1,1 @@
+execute as @a[scores={horodorokeiskillindex=4},team=horodorokeithief] run effect give @s jump_boost 20 2

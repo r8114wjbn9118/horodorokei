@@ -1,0 +1,1 @@
+execute as @e[tag=horodorokeiarmorstand,nbt={Invisible:true}] run data merge entity @s {Invisible:false,Marker:false,CustomNameVisible:1}

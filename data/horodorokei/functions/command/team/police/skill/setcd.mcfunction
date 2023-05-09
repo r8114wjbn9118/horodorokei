@@ -1,0 +1,1 @@
+execute as @a[scores={horodorokeiuseskill=1},team=horodorokeipolice] run scoreboard players set @s horodorokeiskillcd 300

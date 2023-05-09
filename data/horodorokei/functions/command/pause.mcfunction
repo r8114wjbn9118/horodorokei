@@ -1,0 +1,1 @@
+schedule clear horodorokei:command/update

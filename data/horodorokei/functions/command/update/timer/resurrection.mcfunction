@@ -1,0 +1,1 @@
+execute unless score #horodorokeiresurrectiontimer ateg matches 0 run scoreboard players remove #horodorokeiresurrectiontimer ateg 1

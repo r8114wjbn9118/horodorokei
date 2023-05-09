@@ -1,0 +1,1 @@
+give @p birch_sign{"display":{"Name":'{"text":"horodorokei:任務完成(純文字)","italic":false}'},BlockEntityTag:{Text2:'{"text":"[看板を右クリック]","bold":true}'}}

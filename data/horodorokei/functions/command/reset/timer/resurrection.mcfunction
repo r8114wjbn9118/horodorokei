@@ -1,0 +1,1 @@
+scoreboard players operation #horodorokeiresurrectiontimer ateg = #horodorokeiresurrectiontime ateg

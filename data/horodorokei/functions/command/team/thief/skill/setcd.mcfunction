@@ -1,0 +1,2 @@
+execute if score #horodorokeideliverycount ateg matches 0 as @a[scores={horodorokeiuseskill=1},team=horodorokeithief] run scoreboard players set @s horodorokeiskillcd 200
+execute unless score #horodorokeideliverycount ateg matches 0 as @a[scores={horodorokeiuseskill=1},team=horodorokeithief] run scoreboard players set @s horodorokeiskillcd 300

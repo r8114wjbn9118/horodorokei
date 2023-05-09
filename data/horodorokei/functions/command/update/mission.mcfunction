@@ -1,0 +1,2 @@
+execute if score #horodorokeimissiontype ateg matches 3 unless entity @e[tag=horodorokeiescort] run function horodorokei:command/mission/summon/escort
+execute if score #horodorokeimissiontype ateg matches 3 run function horodorokei:command/mission/escort/check

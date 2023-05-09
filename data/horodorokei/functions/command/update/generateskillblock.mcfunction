@@ -1,0 +1,1 @@
+execute positioned as @e[tag=horodorokeiskillblockgenerateloaction] run setblock ~ ~ ~ beacon

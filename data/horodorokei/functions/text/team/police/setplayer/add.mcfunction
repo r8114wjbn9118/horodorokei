@@ -1,0 +1,1 @@
+execute as @p if entity @s[team=horodorokeipolice] run tellraw @a {"translate":"%sがエントリーしました（ケイサツ）","with":[{"selector":"@s"}]}

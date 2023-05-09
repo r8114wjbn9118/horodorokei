@@ -1,0 +1,1 @@
+give @p minecraft:player_head{SkullOwner:{Name:"holoXer",Properties:{textures:[{Value:"e3RleHR1cmVzOntTS0lOOnt1cmw6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjA2ODFhOTAyMzM4YTBkNjU5ZDY4NTE2ZDI4NGVlMDMwZTM3ZWVjM2RkN2NmN2Y4NTcwZjFlNDI5YTkwOGMzMCJ9fX0="}]}}}

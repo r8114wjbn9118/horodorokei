@@ -1,0 +1,1 @@
+execute positioned as @e[tag=horodorokeiescortgenerate] run summon sheep ~ ~ ~ {Tags:[horodorokeiescort,horodorokeimob]}

@@ -1,0 +1,1 @@
+execute positioned as @e[tag=horodorokeimonstergenerate] run summon zombie ~ ~ ~ {Health:0.1f,ArmorItems:[{},{},{},{id:"leather_helmet",Count:1}],Tags:[horodorokeimonster,horodorokeimob]}

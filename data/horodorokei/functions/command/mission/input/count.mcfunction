@@ -1,0 +1,10 @@
+execute if score #horodorokeimissionindex ateg matches 1 if score #horodorokeimissionindexcount1 ateg matches 0 run scoreboard players add #horodorokeimissioncount ateg 1
+execute if score #horodorokeimissionindex ateg matches 2 if score #horodorokeimissionindexcount2 ateg matches 0 run scoreboard players add #horodorokeimissioncount ateg 1
+execute if score #horodorokeimissionindex ateg matches 3 if score #horodorokeimissionindexcount3 ateg matches 0 run scoreboard players add #horodorokeimissioncount ateg 1
+execute if score #horodorokeimissionindex ateg matches 4 if score #horodorokeimissionindexcount4 ateg matches 0 run scoreboard players add #horodorokeimissioncount ateg 1
+execute if score #horodorokeimissionindex ateg matches 5 if score #horodorokeimissionindexcount5 ateg matches 0 run scoreboard players add #horodorokeimissioncount ateg 1
+execute if score #horodorokeimissionindex ateg matches 6 if score #horodorokeimissionindexcount6 ateg matches 0 run scoreboard players add #horodorokeimissioncount ateg 1
+execute if score #horodorokeimissionindex ateg matches 7 if score #horodorokeimissionindexcount7 ateg matches 0 run scoreboard players add #horodorokeimissioncount ateg 1
+execute if score #horodorokeimissionindex ateg matches 8 if score #horodorokeimissionindexcount8 ateg matches 0 run scoreboard players add #horodorokeimissioncount ateg 1
+execute if score #horodorokeimissionindex ateg matches 9 if score #horodorokeimissionindexcount9 ateg matches 0 run scoreboard players add #horodorokeimissioncount ateg 1
+execute if score #horodorokeimissionindex ateg matches 10 if score #horodorokeimissionindexcount10 ateg matches 0 run scoreboard players add #horodorokeimissioncount ateg 1

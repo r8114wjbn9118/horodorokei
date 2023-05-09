@@ -1,0 +1,1 @@
+give @p armor_stand{display:{Name:'{"text":"horodorokei:監獄中心(可見)","italic":false}'},EntityTag:{Tags:[horodorokeiprisonloaction,horodorokeiarmorstand],CustomName:'{"text":"horodorokei:監獄中心"}',CustomNameVisible:1}} 1

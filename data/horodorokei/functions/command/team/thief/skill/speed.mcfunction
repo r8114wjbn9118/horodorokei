@@ -1,0 +1,1 @@
+execute as @a[scores={horodorokeiskillindex=6},team=horodorokeithief] run effect give @s speed 10 2

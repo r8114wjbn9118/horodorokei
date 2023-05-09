@@ -1,0 +1,1 @@
+give @p armor_stand{display:{Name:'{"text":"horodorokei:怪物生成(可見)","italic":false}'},EntityTag:{Tags:[horodorokeimonstergenerate,horodorokeiarmorstand],CustomName:'{"text":"horodorokei:怪物生成"}',CustomNameVisible:1}} 1

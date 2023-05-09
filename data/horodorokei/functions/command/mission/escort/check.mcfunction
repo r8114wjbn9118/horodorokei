@@ -1,0 +1,1 @@
+execute as @e[tag=horodorokeiescort] at @s if entity @e[tag=horodorokeiescortloaction,distance=..3] run function horodorokei:command/mission/success

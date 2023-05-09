@@ -1,0 +1,1 @@
+give @p birch_sign{"display":{"Name":'{"text":"horodorokei:解除身份","italic":false}'},BlockEntityTag:{Text2:'{"text":"[看板を右クリック]","color":"white","bold":true}',Text3:'{"text":"エントリー解除","color":"white"}',Text4:'{"text":"","clickEvent":{"action":"run_command","value":"/function horodorokei:command/team/remove"}}'}}

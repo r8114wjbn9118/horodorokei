@@ -1,0 +1,1 @@
+give @p birch_sign{"display":{"Name":'{"text":"horodorokei:更換身份(警察)","italic":false}'},BlockEntityTag:{Text2:'{"text":"[看板を右クリック]","color":"red","bold":true}',Text3:'{"text":"ケイサツでエントリー","color":"red"}',Text4:'{"text":"","clickEvent":{"action":"run_command","value":"/function horodorokei:command/team/police/setplayer/add"}}'}}

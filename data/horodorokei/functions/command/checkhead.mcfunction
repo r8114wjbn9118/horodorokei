@@ -1,0 +1,1 @@
+execute as @a[tag=!horodorokeiarrest,team=horodorokeithief] unless entity @s[nbt={Inventory:[{Slot:103b,tag:{SkullOwner:{Name:"holoXer"}}}]}] run tag @s add horodorokeiarrest

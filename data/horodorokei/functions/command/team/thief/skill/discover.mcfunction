@@ -1,0 +1,1 @@
+execute as @a[team=horodorokeipolice] run effect give @s glowing 10
